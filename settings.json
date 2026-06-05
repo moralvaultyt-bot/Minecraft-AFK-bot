@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "GALAXZSMP-prince.aternos.me",
+    "port": 13785,
     "version": "1.20.1",
     "try-creative": false
   },
